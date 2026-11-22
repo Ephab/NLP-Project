@@ -1,1 +1,5 @@
 .DS_Store
+
+# trained models are downloaded from the models-v1 release, not committed
+saved_models/
+saved_models.zip
