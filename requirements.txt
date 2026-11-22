@@ -1,0 +1,12 @@
+# Versions printed by the main notebook's Setup cell for the reported run (Google Colab, T4 GPU)
+torch==2.14.1
+transformers==5.22.1
+scikit-learn==1.6.1
+pandas==2.2.3
+
+# Also used (Colab's preinstalled versions)
+numpy
+matplotlib
+joblib
+tqdm
+kagglehub
